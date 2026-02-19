@@ -12,7 +12,6 @@ This resource combines best practices in data management planning with practical
 - **NASA Science Mission Directorate (SMD) Open Science policy (SPD-41a):** https://science.nasa.gov/researchers/open-science/science-information-policy/
 - **NASA SMD Open-Source Science Guidance (includes OSDMP templates):** https://github.com/nasa/smd-open-science-guidelines
 - **DMPTool:** https://dmptool.org
-- **UVM Dataverse:** https://dataverse.uvm.edu
 
 ---
 
@@ -25,14 +24,6 @@ Open science aims to make research:
 - **Accessible** – Available to all researchers and the public
 - **Reproducible** – Methods, data, and code are documented sufficiently for others to verify results
 - **Inclusive** – Benefits broader participation and collaboration
-
-Implementing open science practices often leads to:
-
-- More collaboration and citation impact
-- More equitable research systems
-- Increased participation and reuse
-- Greater transparency and accountability
-- Enhanced reproducibility and reusability
 
 ---
 
